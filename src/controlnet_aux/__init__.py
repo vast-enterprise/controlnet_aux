@@ -2,7 +2,7 @@ __version__ = "0.0.9"
 
 from .anyline import AnylineDetector
 from .canny import CannyDetector
-from .dwpose import DWposeDetector
+from .dwpose import DWposeDetector, AnimalposeDetector
 from .hed import HEDdetector
 from .leres import LeresDetector
 from .lineart import LineartDetector
